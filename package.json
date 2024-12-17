@@ -1,0 +1,28 @@
+{
+  "name": "book-app",
+  "version": "1.0.0",
+  "description": "Cool book app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DethMaix/book-app.git"
+  },
+  "keywords": [
+    "book"
+  ],
+  "author": "Pavliuk Maksim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DethMaix/book-app/issues"
+  },
+  "homepage": "https://github.com/DethMaix/book-app#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.17.0",
+    "eslint": "^9.17.0",
+    "globals": "^15.13.0",
+    "rollup": "^4.28.1"
+  }
+}
